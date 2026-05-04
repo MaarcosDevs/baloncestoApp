@@ -1,4 +1,3 @@
-
 CREATE TABLE `Usuario` (
   `id` int NOT NULL,
   `email` varchar(255) NOT NULL,
